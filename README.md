@@ -1,3 +1,2 @@
 # COAL Project
-# 16-Bit 
-Barrel Shifter
+# 16Bit Barrel Shifter
